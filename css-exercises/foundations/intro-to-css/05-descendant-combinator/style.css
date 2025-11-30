@@ -1,1 +1,29 @@
-/* Add CSS Styling */
+/*Diferentes formas de resolver o exercicio */
+
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* div .text{
+    background-color: blue;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* .container p{
+    background-color: green;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* div p{
+    background-color: gray;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
