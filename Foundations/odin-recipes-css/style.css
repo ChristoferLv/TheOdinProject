@@ -1,20 +1,18 @@
 body {
     background-color: rgb(245, 240, 255);
     margin: 0;
+
+}
+
+.home-body {
     text-align: center;
+    background-image: url("https://media.istockphoto.com/id/1313187927/vector/cooking-food-and-vegetables-background.jpg?s=612x612&w=0&k=20&c=qC9BPv5TLtYEh-_myYacOZSugAEUx4S_uq5s6H33-ss=");
     background-image: url("https://media.istockphoto.com/id/1313187927/vector/cooking-food-and-vegetables-background.jpg?s=612x612&w=0&k=20&c=qC9BPv5TLtYEh-_myYacOZSugAEUx4S_uq5s6H33-ss=");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
 }
 
-.title {
-    margin: 0;
-    margin-block-start: 0;
-    font-family: cursive;
-    text-align: center;
-    font-size: 50px;
-}
 
 .recipe-title {
     margin-top: 0;
@@ -29,4 +27,70 @@ body {
 .recipe-container {
     display: inline-block;
     margin-top: 10px;
+}
+
+.recipe-page-body {
+    padding: 0px 20%;
+}
+
+.recipe-page-header-container {
+    text-align: center;
+}
+
+.title {
+    margin: 0;
+    margin-block-start: 0;
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+.recipe-page-header-container a {
+    display: inline;
+    float: left;
+    margin-top: 40px;
+    font-size: larger;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.recipe-page-header-container .title {
+    display: inline;
+    margin-right: 60px;
+}
+
+.recipe-page-title-container {
+    text-align: center;
+}
+
+.recipe-page-title-container img {
+    box-shadow: 3px 3px 10px rgb(136, 136, 136);
+}
+
+.recipe-page-title-container h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.recipe-page-about-recipe-title {
+    font-weight: 900;
+    font-size: xx-large;
+    margin-bottom: -5px;
+}
+
+.recipe-page-about-text{
+    font-size: larger;
+    text-align: justify;
+}
+
+h2 {
+    margin-bottom: -5px;
+}
+
+li{
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
 }
