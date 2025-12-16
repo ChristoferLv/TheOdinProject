@@ -5,6 +5,66 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.footer {
+  /* display: flex;
+  justify-content: space-between;
+  padding: 16px; */
+  background-color: #eeeeee;
+}
+
+.buttons,
+.input {
+  margin-top: 15px;
+}
+
+.buttons button {
+  background-color: #eeeeee;
+
+  padding: 10px 15px;
+}
+
+/*Primeira solução
+/* .content {
+  flex: 1;
+  justify-items: center;
+  align-self: center;
+  align-content: center;
+} */
+
+/*
+trata o content como container flex também, e alinha os intens la dentro
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/#alignment-3
+*/
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header a,
+.footer a {
+  color: #767782;
+   text-decoration: none;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  gap: 16px;
 }
 
 img {
@@ -23,4 +83,10 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
