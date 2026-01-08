@@ -1,3 +1,6 @@
 [submodule "Foundations/landing-page"]
 	path = Foundations/landing-page
 	url = https://github.com/ChristoferLv/top-landing-page
+[submodule "Foundations/top-rock-paper-scissors"]
+	path = Foundations/top-rock-paper-scissors
+	url = https://github.com/ChristoferLv/top-rock-paper-scissors.git
