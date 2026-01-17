@@ -4,3 +4,6 @@
 [submodule "Foundations/top-rock-paper-scissors"]
 	path = Foundations/top-rock-paper-scissors
 	url = https://github.com/ChristoferLv/top-rock-paper-scissors.git
+[submodule "Foundations/top-etch-a-sketch"]
+	path = Foundations/top-etch-a-sketch
+	url = https://github.com/ChristoferLv/top-etch-a-sketch
