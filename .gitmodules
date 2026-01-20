@@ -7,3 +7,6 @@
 [submodule "Foundations/top-etch-a-sketch"]
 	path = Foundations/top-etch-a-sketch
 	url = https://github.com/ChristoferLv/top-etch-a-sketch
+[submodule "Foundations/top-calculator"]
+	path = Foundations/top-calculator
+	url = https://github.com/ChristoferLv/top-calculator
