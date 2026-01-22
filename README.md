@@ -18,13 +18,13 @@ Projetos desenvolvidos na seção **Foundations**, focados nos fundamentos de HT
 
 #### 📅 Projetos (por ordem de desenvolvimento)
 
-- **[Calculadora](Foundations/top-calculator/)** - Calculadora funcional com interface gráfica. Treino de lógica JavaScript e operações matemáticas.
+- **[Calculadora](https://github.com/ChristoferLv/top-calculator)** - Calculadora funcional com interface gráfica. Treino de lógica JavaScript e operações matemáticas.
 
-- **[Etch-a-Sketch](Foundations/top-etch-a-sketch/)** - Aplicação interativa para desenhar em uma grade, simulando o brinquedo clássico. Foco em manipulação do DOM e eventos JavaScript.
+- **[Etch-a-Sketch](https://github.com/ChristoferLv/top-etch-a-sketch)** - Aplicação interativa para desenhar em uma grade, simulando o brinquedo clássico. Foco em manipulação do DOM e eventos JavaScript.
 
-- **[Pedra, Papel e Tesoura](Foundations/top-rock-paper-scissors/)** - Jogo clássico contra o computador. Introdução à lógica de programação e estruturas condicionais.
+- **[Pedra, Papel e Tesoura](https://github.com/ChristoferLv/top-rock-paper-scissors)** - Jogo clássico contra o computador. Introdução à lógica de programação e estruturas condicionais.
 
-- **[Landing Page](Foundations/landing-page/)** - Página de apresentação moderna. Prática de layout com CSS Flexbox.
+- **[Landing Page](https://github.com/ChristoferLv/top-landing-page)** - Página de apresentação moderna. Prática de layout com CSS Flexbox.
 
 - **[Odin Recipes (com CSS)](Foundations/odin-recipes-css/)** - Versão estilizada do site de receitas. Aplicação de estilos CSS para melhorar a apresentação.
 
