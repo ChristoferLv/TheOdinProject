@@ -10,3 +10,6 @@
 [submodule "Foundations/top-calculator"]
 	path = Foundations/top-calculator
 	url = https://github.com/ChristoferLv/top-calculator
+[submodule "Intermediate HTML and CSS/top-sign-up-form"]
+	path = Intermediate HTML and CSS/top-sign-up-form
+	url = https://github.com/ChristoferLv/top-sign-up-form.git
