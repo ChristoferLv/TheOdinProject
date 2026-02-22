@@ -26,11 +26,18 @@
 
   display: grid;
   grid-template-columns: 1fr 2fr;
+  align-items: center;
 }
 
-.menu ul{
+.header .logo{
+  display: grid;
+  justify-items: start;
+}
+
+.menu ul {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items: stretch;
 }
 
 .menu ul,
@@ -54,6 +61,9 @@
   font-size: 12px;
   font-weight: normal;
   border-radius: 10px;
+
+  display: grid;
+  align-items: center;
 }
 
 
@@ -62,6 +72,9 @@
   color: black;
   font-size: 16px;
   font-weight: normal;
+
+  display: grid;
+  align-items: center;
 }
 
 .nav {
@@ -70,7 +83,7 @@
   grid-column-start: 2;
 }
 
-.nav ul{
+.nav ul {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
@@ -103,7 +116,6 @@
   text-align: center;
 
   height: 200px;
-  width: 250px;
 }
 
 .card p {
@@ -129,6 +141,6 @@
   font-weight: normal;
 }
 
-li{
+li {
   list-style-type: none;
 }
