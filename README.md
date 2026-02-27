@@ -8,11 +8,22 @@ O The Odin Project é uma trilha de estudos gratuita e open-source para desenvol
 
 ## Estrutura do Repositório
 
+### 💛 JavaScript
+
+Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript), focados em conceitos avançados de JavaScript e programação:
+
+#### 📅 Projetos (em ordem cronologica inversa)
+
+*Em breve...*
+
+
 ### 🎨 Intermediate HTML and CSS
 
 Projetos desenvolvidos na seção [**Intermediate HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css), focados em conceitos Intermediários de HTML e CSS:
 
-#### 📅 Projetos (por ordem de desenvolvimento)
+#### 📅 Projetos (em ordem cronologica inversa)
+
+- **[Admin Dashboard](https://github.com/ChristoferLv/top-admin-dashboard)** - Dashboard no estilo "Holy Grail" feito completamente usando CSS Grid.
 
 - **[Sign-up Form](https://github.com/ChristoferLv/top-sign-up-form)** - Formulário de cadastro básico explorando conceitos de HTML Forms e estilização de formulários com CSS.
 
@@ -21,7 +32,7 @@ Projetos desenvolvidos na seção [**Intermediate HTML and CSS**](https://www.th
 
 Projetos desenvolvidos na seção [**Foundations**](https://www.theodinproject.com/paths/foundations/courses/foundations), focados nos fundamentos de HTML, CSS e JavaScript básico:
 
-#### 📅 Projetos (por ordem de desenvolvimento)
+#### 📅 Projetos (em ordem cronologica inversa)
 
 - **[Calculadora](https://github.com/ChristoferLv/top-calculator)** - Calculadora funcional com interface gráfica. Treino de lógica JavaScript e operações matemáticas.
 
@@ -46,4 +57,4 @@ Cada projeto possui seu próprio README com instruções específicas de uso e c
 
 ---
 
-🚀 **Status**: Em andamento - Foundations concluído, iniciando Intermediate HTML and CSS
+🚀 **Status**: Em andamento - Foundations e Intermediate HTML and CSS concluídos, iniciando JavaScript
