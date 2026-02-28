@@ -16,3 +16,6 @@
 [submodule "Intermediate HTML and CSS/top-admin-dashboard"]
 	path = Intermediate HTML and CSS/top-admin-dashboard
 	url = https://github.com/ChristoferLv/top-admin-dashboard
+[submodule "Javascript/top-library"]
+	path = Javascript/top-library
+	url = https://github.com/ChristoferLv/top-library
