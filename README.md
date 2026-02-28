@@ -14,7 +14,7 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 
 #### 📅 Projetos (em ordem cronologica inversa)
 
-*Em breve...*
+- **[Library](https://github.com/ChristoferLv/top-library)** - Biblioteca virtual para gerenciamento de livros. Prática de construtores de objetos, protótipos e separação entre dados e exibição no DOM.
 
 
 ### 🎨 Intermediate HTML and CSS
@@ -57,4 +57,4 @@ Cada projeto possui seu próprio README com instruções específicas de uso e c
 
 ---
 
-🚀 **Status**: Em andamento - Foundations e Intermediate HTML and CSS concluídos, iniciando JavaScript
+🚀 **Status**: Em andamento - Foundations e Intermediate HTML and CSS concluídos, cursando JavaScript
