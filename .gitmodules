@@ -19,3 +19,6 @@
 [submodule "Javascript/top-library"]
 	path = Javascript/top-library
 	url = https://github.com/ChristoferLv/top-library
+[submodule "Javascript/top-tic-tac-toe"]
+	path = Javascript/top-tic-tac-toe
+	url = https://github.com/ChristoferLv/top-tic-tac-toe
