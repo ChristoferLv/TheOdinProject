@@ -16,7 +16,7 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 
 - **[Tic Tac Toe](https://github.com/ChristoferLv/top-tic-tac-toe)** - Jogo da velha para dois jogadores. Prática de organização de código com Module Pattern e Factory Functions, encapsulamento e separação de responsabilidades.
 
-- **[Library](https://github.com/ChristoferLv/top-library)** - Biblioteca virtual para gerenciamento de livros. Prática de construtores de objetos, protótipos e separação entre dados e exibição no DOM.
+- **[Library](https://github.com/ChristoferLv/top-library)** - Biblioteca virtual para gerenciamento de livros. Prática de construtores de objetos, protótipos, classes e separação entre dados e exibição no DOM.
 
 
 ### 🎨 Intermediate HTML and CSS
