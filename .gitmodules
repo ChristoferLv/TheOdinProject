@@ -22,3 +22,6 @@
 [submodule "Javascript/top-tic-tac-toe"]
 	path = Javascript/top-tic-tac-toe
 	url = https://github.com/ChristoferLv/top-tic-tac-toe
+[submodule "Javascript/top-restaurant-page"]
+	path = Javascript/top-restaurant-page
+	url = https://github.com/ChristoferLv/top-restaurant-page
