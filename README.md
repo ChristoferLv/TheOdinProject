@@ -14,7 +14,7 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 
 #### 📅 Projetos (em ordem cronologica inversa)
 
-- **[Todo List](https://github.com/ChristoferLv/top-todo-list)** - Aplicação de gerenciamento de tarefas com projetos/grupos, persistência em LocalStorage e arquitetura modular com JavaScript.
+- **[Todo List](https://github.com/ChristoferLv/top-todo-list)** - Aplicação de gerenciamento de tarefas com organização por grupos, persistência em LocalStorage e arquitetura modular em JavaScript, utilizando callbacks e dependency injection.
 
 - **[Restaurant Page](https://github.com/ChristoferLv/top-restaurant-page)** - Página de restaurante com conteúdo renderizado dinamicamente via JavaScript modular e bundling com Webpack.
 
