@@ -25,3 +25,6 @@
 [submodule "Javascript/top-restaurant-page"]
 	path = Javascript/top-restaurant-page
 	url = https://github.com/ChristoferLv/top-restaurant-page
+[submodule "Javascript/top-todo-list"]
+	path = Javascript/top-todo-list
+	url = https://github.com/ChristoferLv/top-todo-list

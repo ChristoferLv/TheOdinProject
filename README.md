@@ -14,6 +14,8 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 
 #### 📅 Projetos (em ordem cronologica inversa)
 
+- **[Todo List](https://github.com/ChristoferLv/top-todo-list)** - Aplicação de gerenciamento de tarefas com projetos/grupos, persistência em LocalStorage e arquitetura modular com JavaScript.
+
 - **[Restaurant Page](https://github.com/ChristoferLv/top-restaurant-page)** - Página de restaurante com conteúdo renderizado dinamicamente via JavaScript modular e bundling com Webpack.
 
 - **[Tic Tac Toe](https://github.com/ChristoferLv/top-tic-tac-toe)** - Jogo da velha para dois jogadores. Prática de organização de código com Module Pattern e Factory Functions, encapsulamento e separação de responsabilidades.
