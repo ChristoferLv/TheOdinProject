@@ -22,6 +22,8 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 
 - **[Library](https://github.com/ChristoferLv/top-library)** - Biblioteca virtual para gerenciamento de livros. Prática de construtores de objetos, protótipos, classes, *Constraint Validation API*, e separação entre dados e exibição no DOM.
 
+- \***[Form Validation Practice](Javascript/form-validation-practice/)** - Atividade complementar da lição de validação de formulários com JavaScript, para prática de validação de formulários com feedback visual de erros e validação em tempo real.
+
 
 ### 🎨 Intermediate HTML and CSS
 
