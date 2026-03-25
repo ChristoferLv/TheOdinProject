@@ -14,6 +14,8 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 
 #### 📅 Projetos (em ordem cronologica inversa)
 
+- **[Weather App](https://github.com/ChristoferLv/top-weather-app)** - Aplicação de previsão do tempo integrando APIs externas (Visual Crossing e Giphy). Prática de requisições assíncronas com Promises e async/await, manipulação dinâmica do DOM e bundling com Webpack.
+
 - **[Todo List](https://github.com/ChristoferLv/top-todo-list)** - Aplicação de gerenciamento de tarefas com organização por grupos, persistência em LocalStorage e arquitetura modular em JavaScript, utilizando callbacks e dependency injection.
 
 - **[Restaurant Page](https://github.com/ChristoferLv/top-restaurant-page)** - Página de restaurante com conteúdo renderizado dinamicamente via JavaScript modular e bundling com Webpack.

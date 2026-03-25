@@ -28,3 +28,6 @@
 [submodule "Javascript/top-todo-list"]
 	path = Javascript/top-todo-list
 	url = https://github.com/ChristoferLv/top-todo-list
+[submodule "Javascript/top-weather-app"]
+	path = Javascript/top-weather-app
+	url = https://github.com/ChristoferLv/top-weather-app
