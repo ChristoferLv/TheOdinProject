@@ -31,3 +31,6 @@
 [submodule "Javascript/top-weather-app"]
 	path = Javascript/top-weather-app
 	url = https://github.com/ChristoferLv/top-weather-app
+[submodule "Javascript/top-testing-practice"]
+	path = Javascript/top-testing-practice
+	url = https://github.com/ChristoferLv/top-testing-practice
