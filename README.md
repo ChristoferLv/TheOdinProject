@@ -13,6 +13,8 @@ O The Odin Project é uma trilha de estudos gratuita e open-source para desenvol
 Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript), focados em conceitos avançados de JavaScript e programação:
 
 #### 📅 Projetos (em ordem cronologica inversa)
+- **[Linked Lists](https://github.com/ChristoferLv/top-linked-lists)** - Implementação da estrutura de dados *Linked List* em JavaScript, com operações de inserção, busca, acesso por índice e representação textual da lista.
+
 - **[Recursion](https://github.com/ChristoferLv/top-recursion)** - Implementação dos algoritmos Fibonacci (iterativo e recursivo) e Merge Sort para prática de recursão, divisão e conquista e lógica algorítmica.
 
 - **[Testing Practice](https://github.com/ChristoferLv/top-testing-practice)** - Projeto de prática de testes unitários com Jest, cobrindo funções utilitárias, casos de borda e configuração ESM com Babel.

@@ -37,3 +37,6 @@
 [submodule "Javascript/top-recursion"]
 	path = Javascript/top-recursion
 	url = https://github.com/ChristoferLv/top-recursion
+[submodule "Javascript/top-linked-lists"]
+	path = Javascript/top-linked-lists
+	url = https://github.com/ChristoferLv/top-linked-lists.git
