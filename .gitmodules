@@ -40,3 +40,12 @@
 [submodule "Javascript/top-linked-lists"]
 	path = Javascript/top-linked-lists
 	url = https://github.com/ChristoferLv/top-linked-lists.git
+[submodule "Javascript/top-HashMap"]
+	path = Javascript/top-HashMap
+	url = https://github.com/ChristoferLv/top-HashMap
+[submodule "Javascript/top-binary-search-trees"]
+	path = Javascript/top-binary-search-trees
+	url = https://github.com/ChristoferLv/top-binary-search-trees
+[submodule "Javascript/top-knights-travails"]
+	path = Javascript/top-knights-travails
+	url = https://github.com/ChristoferLv/top-knights-travails
