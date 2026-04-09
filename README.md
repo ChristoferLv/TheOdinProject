@@ -12,7 +12,13 @@ O The Odin Project é uma trilha de estudos gratuita e open-source para desenvol
 
 Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript), focados em conceitos avançados de JavaScript e programação:
 
-#### 📅 Projetos (em ordem cronologica inversa)
+#### 📅 Projetos (em ordem cronológica inversa)
+- **[Knights Travails](Javascript/top-knights-travails/)** - Algoritmo de menor caminho para o cavalo no tabuleiro de xadrez usando busca em largura (BFS), retornando o percurso completo entre origem e destino.
+
+- **[Binary Search Trees](Javascript/top-binary-search-trees/)** - Implementação de uma BST com construção balanceada, inserção, remoção, percursos, verificação de balanceamento e rebalanceamento.
+
+- **[HashMap](Javascript/top-HashMap/)** - Implementação manual de um HashMap com função de hash, tratamento de colisões e redimensionamento automático por fator de carga.
+
 - **[Linked Lists](https://github.com/ChristoferLv/top-linked-lists)** - Implementação da estrutura de dados *Linked List* em JavaScript, com operações de inserção, busca, acesso por índice e representação textual da lista.
 
 - **[Recursion](https://github.com/ChristoferLv/top-recursion)** - Implementação dos algoritmos Fibonacci (iterativo e recursivo) e Merge Sort para prática de recursão, divisão e conquista e lógica algorítmica.
@@ -36,7 +42,7 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 
 Projetos desenvolvidos na seção [**Intermediate HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css), focados em conceitos Intermediários de HTML e CSS:
 
-#### 📅 Projetos (em ordem cronologica inversa)
+#### 📅 Projetos (em ordem cronológica inversa)
 
 - **[Admin Dashboard](https://github.com/ChristoferLv/top-admin-dashboard)** - Dashboard no estilo "Holy Grail" feito completamente usando CSS Grid.
 
@@ -47,7 +53,7 @@ Projetos desenvolvidos na seção [**Intermediate HTML and CSS**](https://www.th
 
 Projetos desenvolvidos na seção [**Foundations**](https://www.theodinproject.com/paths/foundations/courses/foundations), focados nos fundamentos de HTML, CSS e JavaScript básico:
 
-#### 📅 Projetos (em ordem cronologica inversa)
+#### 📅 Projetos (em ordem cronológica inversa)
 
 - **[Calculadora](https://github.com/ChristoferLv/top-calculator)** - Calculadora funcional com interface gráfica. Treino de lógica JavaScript e operações matemáticas.
 
