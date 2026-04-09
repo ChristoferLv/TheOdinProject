@@ -13,11 +13,11 @@ O The Odin Project é uma trilha de estudos gratuita e open-source para desenvol
 Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript), focados em conceitos avançados de JavaScript e programação:
 
 #### 📅 Projetos (em ordem cronológica inversa)
-- **[Knights Travails](Javascript/top-knights-travails/)** - Algoritmo de menor caminho para o cavalo no tabuleiro de xadrez usando busca em largura (BFS), retornando o percurso completo entre origem e destino.
+- **[Knights Travails](https://github.com/ChristoferLv/top-knights-travails/)** - Algoritmo de menor caminho para o cavalo no tabuleiro de xadrez usando busca em largura (BFS), retornando o percurso completo entre origem e destino.
 
-- **[Binary Search Trees](Javascript/top-binary-search-trees/)** - Implementação de uma BST com construção balanceada, inserção, remoção, percursos, verificação de balanceamento e rebalanceamento.
+- **[Binary Search Trees](https://github.com/ChristoferLv/top-binary-search-trees/)** - Implementação de uma BST com construção balanceada, inserção, remoção, percursos, verificação de balanceamento e rebalanceamento.
 
-- **[HashMap](Javascript/top-HashMap/)** - Implementação manual de um HashMap com função de hash, tratamento de colisões e redimensionamento automático por fator de carga.
+- **[HashMap](https://github.com/ChristoferLv/top-HashMap/)** - Implementação manual de um HashMap com função de hash, tratamento de colisões e redimensionamento automático por fator de carga.
 
 - **[Linked Lists](https://github.com/ChristoferLv/top-linked-lists)** - Implementação da estrutura de dados *Linked List* em JavaScript, com operações de inserção, busca, acesso por índice e representação textual da lista.
 
