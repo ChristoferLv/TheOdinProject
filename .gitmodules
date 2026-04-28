@@ -49,3 +49,6 @@
 [submodule "Javascript/top-knights-travails"]
 	path = Javascript/top-knights-travails
 	url = https://github.com/ChristoferLv/top-knights-travails
+[submodule "Javascript/top-battleship"]
+	path = Javascript/top-battleship
+	url = https://github.com/ChristoferLv/top-battleship
