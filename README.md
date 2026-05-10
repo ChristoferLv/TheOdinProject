@@ -10,9 +10,9 @@ O The Odin Project é uma trilha de estudos gratuita e open-source para desenvol
 
 ### ⚙️ Advanced HTML and CSS Course
 
-Projetos desenvolvidos na seção [**Advanced HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css), focados em layout avançado, tipografia e responsividade:
+Projeto desenvolvido na seção [**Advanced HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css), focado em layout avançado, tipografia e responsividade:
 
-#### 📅 Projetos
+#### 📅 Projeto
 
 - **[Homepage](https://github.com/ChristoferLv/top-homepage)** - Página de portfólio responsiva com seções de apresentação, trabalhos e contato, usando fontes customizadas e cards de projeto.
 
