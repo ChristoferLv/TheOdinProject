@@ -52,3 +52,6 @@
 [submodule "Javascript/top-battleship"]
 	path = Javascript/top-battleship
 	url = https://github.com/ChristoferLv/top-battleship
+[submodule "Advanced HTML and CSS/top-homepage"]
+	path = Advanced HTML and CSS/top-homepage
+	url = https://github.com/ChristoferLv/top-homepage
