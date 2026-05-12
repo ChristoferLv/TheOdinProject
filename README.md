@@ -49,6 +49,15 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 - \***[Form Validation Practice](Javascript/form-validation-practice/)** - Atividade complementar da lição de validação de formulários com JavaScript, para prática de validação de formulários com feedback visual de erros e validação em tempo real.
 
 
+### ⚛ React
+
+Projetos desenvolvidos na seção [**React**](https://www.theodinproject.com/paths/full-stack-javascript/courses/react), focados em componentes, estado e formulários:
+
+#### 📅 Projetos (em ordem cronológica inversa)
+
+- **[CV Application](https://github.com/ChristoferLv/top-cv-application)** - Gerador de currículo com formulários editáveis, múltiplas entradas e visualização final.
+
+
 ### 🎨 Intermediate HTML and CSS
 
 Projetos desenvolvidos na seção [**Intermediate HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css), focados em conceitos Intermediários de HTML e CSS:

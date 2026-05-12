@@ -55,3 +55,6 @@
 [submodule "Advanced HTML and CSS/top-homepage"]
 	path = Advanced HTML and CSS/top-homepage
 	url = https://github.com/ChristoferLv/top-homepage
+[submodule "React/top-cv-application"]
+	path = React/top-cv-application
+	url = https://github.com/ChristoferLv/top-cv-application
