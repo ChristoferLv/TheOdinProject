@@ -8,6 +8,15 @@ O The Odin Project é uma trilha de estudos gratuita e open-source para desenvol
 
 ## Estrutura do Repositório
 
+### ⚛️ React
+
+Projetos desenvolvidos na seção [**React**](https://www.theodinproject.com/paths/full-stack-javascript/courses/react), focados em componentes, estado e formulários:
+
+#### 📅 Projetos (em ordem cronológica inversa)
+
+- **[CV Application](https://github.com/ChristoferLv/top-cv-application)** - Gerador de currículo com formulários editáveis, múltiplas entradas e visualização final.
+
+
 ### ⚙️ Advanced HTML and CSS Course
 
 Projeto desenvolvido na seção [**Advanced HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css), focado em layout avançado, tipografia e responsividade:
@@ -47,15 +56,6 @@ Projetos desenvolvidos na seção [**JavaScript**](https://www.theodinproject.co
 - **[Library](https://github.com/ChristoferLv/top-library)** - Biblioteca virtual para gerenciamento de livros. Prática de construtores de objetos, protótipos, classes, *Constraint Validation API*, e separação entre dados e exibição no DOM.
 
 - \***[Form Validation Practice](Javascript/form-validation-practice/)** - Atividade complementar da lição de validação de formulários com JavaScript, para prática de validação de formulários com feedback visual de erros e validação em tempo real.
-
-
-### ⚛ React
-
-Projetos desenvolvidos na seção [**React**](https://www.theodinproject.com/paths/full-stack-javascript/courses/react), focados em componentes, estado e formulários:
-
-#### 📅 Projetos (em ordem cronológica inversa)
-
-- **[CV Application](https://github.com/ChristoferLv/top-cv-application)** - Gerador de currículo com formulários editáveis, múltiplas entradas e visualização final.
 
 
 ### 🎨 Intermediate HTML and CSS
