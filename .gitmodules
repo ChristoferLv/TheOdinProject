@@ -58,3 +58,6 @@
 [submodule "React/top-cv-application"]
 	path = React/top-cv-application
 	url = https://github.com/ChristoferLv/top-cv-application
+[submodule "React/top-memory-card"]
+	path = React/top-memory-card
+	url = https://github.com/ChristoferLv/top-memory-card
