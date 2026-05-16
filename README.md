@@ -14,6 +14,8 @@ Projetos desenvolvidos na seção [**React**](https://www.theodinproject.com/pat
 
 #### 📅 Projetos (em ordem cronológica inversa)
 
+- **[Memory Card](https://github.com/ChristoferLv/top-memory-card)** - Jogo da memória com cartas embaralhadas, pontuacao e dados carregados da PokeAPI.
+
 - **[CV Application](https://github.com/ChristoferLv/top-cv-application)** - Gerador de currículo com formulários editáveis, múltiplas entradas e visualização final.
 
 
