@@ -61,3 +61,6 @@
 [submodule "React/top-memory-card"]
 	path = React/top-memory-card
 	url = https://github.com/ChristoferLv/top-memory-card
+[submodule "React/top-shopping-cart"]
+	path = React/top-shopping-cart
+	url = https://github.com/ChristoferLv/top-shopping-cart
