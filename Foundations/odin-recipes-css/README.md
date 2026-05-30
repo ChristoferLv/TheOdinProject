@@ -30,6 +30,10 @@ Uma versão aprimorada do site de receitas com:
 - HTML5
 - CSS3
 
+## Visualization
+
+<img width="1900" height="1798" alt="TOP_Foundations_odin-recipes-css_recipes_pasta html" src="https://github.com/user-attachments/assets/23a42716-914e-41e0-adf1-cae79ebe9634" />
+
 ---
 
 Projeto desenvolvido seguindo: [The Odin Project - CSS Foundations](https://www.theodinproject.com/lessons/foundations-recipes)
