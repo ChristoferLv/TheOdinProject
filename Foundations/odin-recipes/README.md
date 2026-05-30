@@ -28,6 +28,10 @@ Um site simples de receitas culinárias contendo:
 
 - HTML5 puro (sem CSS ou JavaScript)
 
+## Visualization
+
+<img width="1900" height="1291" alt="TOP_Foundations_odin-recipes_recipes_pasta html" src="https://github.com/user-attachments/assets/4981c588-4b89-418d-a776-482d34a24c80" />
+
 ---
 
 Projeto desenvolvido seguindo: [The Odin Project - Recipes](https://www.theodinproject.com/lessons/foundations-block-and-inline#assignment)
