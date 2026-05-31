@@ -64,3 +64,6 @@
 [submodule "React/top-shopping-cart"]
 	path = React/top-shopping-cart
 	url = https://github.com/ChristoferLv/top-shopping-cart
+[submodule "Databases/top-sql-zoo"]
+	path = Databases/top-sql-zoo
+	url = https://github.com/ChristoferLv/top-sql-zoo
