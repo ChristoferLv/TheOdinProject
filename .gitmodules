@@ -67,3 +67,30 @@
 [submodule "Databases/top-sql-zoo"]
 	path = Databases/top-sql-zoo
 	url = https://github.com/ChristoferLv/top-sql-zoo
+[submodule "NodeJS/top-basic-informational-site"]
+	path = NodeJS/top-basic-informational-site
+	url = https://github.com/ChristoferLv/top-basic-informational-site
+[submodule "NodeJS/top-mini-message-board"]
+	path = NodeJS/top-mini-message-board
+	url = https://github.com/ChristoferLv/top-mini-message-board
+[submodule "NodeJS/top-inventory-application"]
+	path = NodeJS/top-inventory-application
+	url = https://github.com/ChristoferLv/top-inventory-application
+[submodule "NodeJS/top-members-only"]
+	path = NodeJS/top-members-only
+	url = https://github.com/ChristoferLv/top-members-only
+[submodule "NodeJS/top-file-uploader"]
+	path = NodeJS/top-file-uploader
+	url = https://github.com/ChristoferLv/top-file-uploader
+[submodule "NodeJS/top-blog-api"]
+	path = NodeJS/top-blog-api
+	url = https://github.com/ChristoferLv/top-blog-api
+[submodule "NodeJS/top-wheres-waldo"]
+	path = NodeJS/top-wheres-waldo
+	url = https://github.com/ChristoferLv/top-wheres-waldo
+[submodule "NodeJS/top-messaging-app"]
+	path = NodeJS/top-messaging-app
+	url = https://github.com/ChristoferLv/top-messaging-app
+[submodule "NodeJS/top-odin-book"]
+	path = NodeJS/top-odin-book
+	url = https://github.com/ChristoferLv/top-odin-book
