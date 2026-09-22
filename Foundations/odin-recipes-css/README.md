@@ -1,31 +1,30 @@
 # Odin Recipes - CSS Version
 
-Versão estilizada do projeto Odin Recipes, desenvolvida como parte da trilha Foundations do [The Odin Project](https://www.theodinproject.com/). Este projeto aplica **CSS** ao site de receitas criado anteriormente.
+Styled version of the Odin Recipes project, developed as part of the [Foundations path of The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations). This project applies **CSS** to the recipe website created previously.
 
-## Objetivo do Projeto
+## Project Objective
 
-O objetivo principal era praticar:
-- Aplicação de estilos CSS básicos
-- Seletores CSS (elemento, classe, ID)
-- Propriedades de layout e tipografia
-- Cores, espaçamentos e bordas
-- Integração entre HTML e CSS
+The main objective was to practice:
+- Applying basic CSS styles
+- CSS selectors (element, class, ID)
+- Layout and typography properties
+- Colors, spacing, and borders
+- Integration between HTML and CSS
 
-## O que é?
+## What is it?
 
-Uma versão aprimorada do site de receitas com:
-- Design mais atrativo e legível
-- Estilos consistentes em todas as páginas
-- Melhor hierarquia visual
-- Cores e tipografia aplicadas
+An improved version of the recipe website with:
+- A more attractive and readable design
+- Consistent styles across all pages
+- Better visual hierarchy
+- Applied colors and typography
 
-## Como usar
+## How to use
 
-1. Abra o arquivo `index.html` em seu navegador
-2. Navegue pelas receitas estilizadas
-3. Compare com a versão anterior (sem CSS) para ver as melhorias visuais
+1. Open the `index.html` file in your browser
+2. Navigate through the styled recipes
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -36,6 +35,6 @@ Uma versão aprimorada do site de receitas com:
 
 ---
 
-Projeto desenvolvido seguindo: [The Odin Project - CSS Foundations](https://www.theodinproject.com/lessons/foundations-recipes)
+Project developed following: [The Odin Project - CSS Foundations](https://www.theodinproject.com/lessons/foundations-block-and-inline#assignment)
 
-📍 **Repositório principal com todos os projetos**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
+📍 **Main repository with all projects**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
