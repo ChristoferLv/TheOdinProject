@@ -53,6 +53,10 @@ Interface behavior:
 - CSS3
 - JavaScript (ES6)
 
+## Visualization
+
+<img width="1920" height="919" alt="Javascript_form-validation-practice_screenshot" src="https://github.com/user-attachments/assets/9fd0d72f-11a8-487e-abcf-fb6090c47372" />
+
 ---
 
 Lesson reference: [The Odin Project - Form Validation with JavaScript](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript)
