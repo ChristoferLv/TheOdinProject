@@ -1,32 +1,32 @@
 # Odin Recipes
 
-Este é o primeiro projeto da trilha Foundations do [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes), focado em treinar os conceitos introdutórios de **HTML semântico**.
+This is the first project from the [Foundations path of The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations), focused on practicing introductory **semantic HTML** concepts.
 
-## Objetivo do Projeto
+## Project Objective
 
-O objetivo principal era praticar:
-- Estrutura básica de documentos HTML
-- Tags semânticas (`<h1>`, `<h2>`, `<p>`, `<ul>`, `<li>`, `<a>`, etc.)
-- Organização de conteúdo em páginas web
-- Links entre páginas
-- Estruturação de informações de forma hierárquica
+The main objective was to practice:
+- Basic HTML document structure
+- Semantic tags (`<h1>`, `<h2>`, `<p>`, `<ul>`, `<li>`, `<a>`, etc.)
+- Organizing content in web pages
+- Links between pages
+- Structuring information hierarchically
 
-## O que é?
+## What is it?
 
-Um site simples de receitas culinárias contendo:
-- Página inicial com lista de receitas
-- Páginas individuais para cada receita com ingredientes e modo de preparo
-- Navegação básica entre as páginas
+A simple recipe website containing:
+- Home page with a recipe list
+- Individual pages for each recipe with ingredients and preparation steps
+- Basic navigation between pages
 
-## Como usar
+## How to use
 
-1. Abra o arquivo `index.html` em seu navegador
-2. Navegue pelas receitas clicando nos links
-3. Cada receita possui sua página própria com detalhes completos
+1. Open the `index.html` file in your browser
+2. Navigate through recipes by clicking the links
+3. Each recipe has its own page with full details
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- HTML5 puro (sem CSS ou JavaScript)
+- Pure HTML5 (no CSS or JavaScript)
 
 ## Visualization
 
@@ -34,6 +34,6 @@ Um site simples de receitas culinárias contendo:
 
 ---
 
-Projeto desenvolvido seguindo: [The Odin Project - Recipes](https://www.theodinproject.com/lessons/foundations-block-and-inline#assignment)
+Project developed following: [The Odin Project - Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
 
-📍 **Repositório principal com todos os projetos**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
+📍 **Main repository with all projects**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
