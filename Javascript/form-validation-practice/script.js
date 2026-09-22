@@ -81,7 +81,7 @@ const updateError = (isValid) => {
         emailError.textContent = "";
         emailError.removeAttribute("class");
     } else {
-        emailError.textContent = "O Email não está no formato correto. email@example.com";
+        emailError.textContent = "Email is not on the correct format. email@example.com";
         emailError.setAttribute("class", "active");
     }
 };
@@ -126,7 +126,7 @@ const handleEmailInput = () => {
 const handlePasswordInput = () => {
     const validity = isValidPassword();
     setClass(validity, password);
-    updatePasswordError(validity, "A senha deve ter ao menos 8 caracteres sendo letras ou números.");
+    updatePasswordError(validity, "Password must have at least 8 characters, including letters and numbers.");
     handleConfirmPasswordInput();
 };
 
@@ -134,7 +134,7 @@ const handleConfirmPasswordInput = () => {
     if (confirmPassword.value.length > 0) {
         const validity = checkPasswordsEqual();
         setClass(validity, confirmPassword);
-        updateConfirmPasswordError(validity, "O valor da senha deve ser igual.");
+        updateConfirmPasswordError(validity, "Password values must match.");
     }
 };
 
@@ -150,9 +150,9 @@ const handleSubmit = (event) => {
     event.preventDefault();
     const valid = isValidEmail() && isValidPassword() && checkPasswordsEqual() && checkPostalCode().result;
     if(!valid){
-        alert("Preencha corretamente todos os campos.");
+        alert("Fill the fields correctly.");
     }else{
-        alert("Tudo em ordem 👍");
+        alert("Everything is correct 👍");
     }
 
 };

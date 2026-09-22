@@ -1,53 +1,53 @@
 # Form Validation Practice
 
-Atividade prática de validação de formulário com JavaScript, feita a partir da lição [Form Validation with JavaScript](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript#a-little-more-practice) do The Odin Project.
+Practical form validation exercise with JavaScript, based on the [Form Validation with JavaScript](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript#a-little-more-practice) lesson from The Odin Project.
 
-Este projeto nao e um projeto principal da trilha como Library, Tic Tac Toe ou Restaurant Page. Ele foi desenvolvido como exercicio complementar sugerido no fim da licao para praticar a **Constraint Validation API** e validacao customizada no front-end.
+This project is not a main project of the path like Library, Tic Tac Toe, or Restaurant Page. It was developed as a complementary exercise suggested at the end of the lesson to practice the **Constraint Validation API** and custom frontend validation.
 
-## Objetivo da Atividade
+## Activity Objective
 
-O objetivo principal foi praticar:
-- Validacao de formulario usando JavaScript
-- Uso do atributo `novalidate` para controlar toda a validacao no JS
-- Feedback visual de campos validos e invalidos
-- Mensagens de erro customizadas por campo
-- Validacao em tempo real durante digitacao e ao enviar
+The main objective was to practice:
+- Form validation using JavaScript
+- Using the `novalidate` attribute to control all validation in JS
+- Visual feedback for valid and invalid fields
+- Custom error messages for each field
+- Real-time validation while typing and on submit
 
-## O que foi implementado
+## What Was Implemented
 
-Formulario com os campos:
+Form with the following fields:
 - Email
 - Country
 - Postal code
 - Password
 - Confirm Password
 
-Regras de validacao aplicadas:
-- **Email**: validacao com expressao regular
-- **Postal code**: validacao por pais (Suica, Franca, Alemanha e Holanda)
-- **Password**: minimo de 3 caracteres alfanumericos (conforme implementacao atual)
-- **Confirm Password**: precisa ser igual ao campo de senha
+Validation rules applied:
+- **Email**: validation with a regular expression
+- **Postal code**: validation by country (Switzerland, France, Germany, and the Netherlands)
+- **Password**: minimum of 3 alphanumeric characters (according to the current implementation)
+- **Confirm Password**: must match the password field
 
-Comportamento da interface:
-- Campos recebem classe `.valid` ou `.invalid`
-- Mensagens de erro aparecem dinamicamente abaixo dos inputs
-- Envio do formulario e interceptado com `event.preventDefault()`
-- Exibe alerta final de erro ou sucesso
+Interface behavior:
+- Fields receive the `.valid` or `.invalid` class
+- Error messages appear dynamically below the inputs
+- Form submission is intercepted with `event.preventDefault()`
+- Displays a final error or success alert
 
-## Como usar
+## How to use
 
-1. Abra o arquivo `index.html` em seu navegador
-2. Preencha os campos do formulario
-3. Veja a validacao acontecer em tempo real
-4. Clique em "Enviar" para testar a validacao final
+1. Open the `index.html` file in your browser
+2. Fill in the form fields
+3. Watch validation happen in real time
+4. Click "Enviar" to test the final validation
 
-## Estrutura
+## Structure
 
-- `index.html`: estrutura do formulario
-- `style.css`: estilos base e estados de validacao
-- `script.js`: logica de validacao, mensagens de erro e envio
+- `index.html`: form structure
+- `style.css`: base styles and validation states
+- `script.js`: validation logic, error messages, and submission handling
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -55,6 +55,6 @@ Comportamento da interface:
 
 ---
 
-Referencia da licao: [The Odin Project - Form Validation with JavaScript](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript)
+Lesson reference: [The Odin Project - Form Validation with JavaScript](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript)
 
-📍 **Repositório principal com todos os projetos**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
+📍 **Main repository with all projects**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
