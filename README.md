@@ -1,10 +1,29 @@
 # The Odin Project - Studies
 
-This repository centralizes all materials and projects developed during my studies following [The Odin Project](https://www.theodinproject.com/) curriculum. Here you will find exercises, hands-on projects, and implementations that demonstrate my progress in learning web development.
+This repository centralizes all the projects and exercises built during my studies following [The Odin Project](https://www.theodinproject.com/) Full Stack JavaScript curriculum: a rigorous, project-driven path covering everything from HTML/CSS fundamentals to production-grade Node.js backends and React frontends.
 
-## About The Odin Project
+Every project here was built from scratch, without scaffolding or boilerplate, with a focus on understanding the underlying concepts rather than just making things work.
 
-The Odin Project is a free and open-source curriculum for full-stack web development, covering everything from HTML/CSS fundamentals to advanced frameworks like React and Node.js.
+## Concepts & Skills Covered
+
+A full picture of what was studied and applied across all sections of the curriculum:
+
+| Area | Concepts & Technologies |
+|------|------------------------|
+| **Backend** | Node.js, Express 5, RESTful API design, MVC architecture, middleware pipelines, centralized error handling, input validation with express-validator, EJS server-side templating |
+| **Authentication & Security** | JWT (issue, verify, refresh), Passport.js (JWT + Local strategies), session-based authentication, bcrypt password hashing, role-based access control, protected routes |
+| **API Design** | RESTful conventions (GET, POST, PUT, PATCH, DELETE), offset pagination, query filters, search endpoints, consistent JSON response format, CORS configuration |
+| **Architecture & Patterns** | Module Pattern, Factory Functions, dependency injection, monorepo with multiple clients, service/controller layering, separation of concerns, full CRUD |
+| **Database** | PostgreSQL, Prisma ORM, database migrations, seeding, raw SQL (`$queryRaw`), relational data modeling, self-referencing tables, composite unique constraints, partial indexes, Prisma transactions, cascade deletes |
+| **External APIs** | REST API consumption (PokeAPI, Visual Crossing Weather API, Giphy API), async data fetching, error handling for third-party responses |
+| **Real-Time** | WebSocket communication with Socket.IO (server + client), JWT-authenticated socket connections, per-user rooms, server-pushed event notifications. *self-studied, not covered in the curriculum* |
+| **Data Structures & Algorithms** | Linked Lists, Binary Search Trees (balanced, traversals, rebalancing), HashMap (hash function, collision handling, load factor resizing), BFS, recursion, Merge Sort |
+| **External APIs** | REST API consumption (PokeAPI, Visual Crossing Weather API, Giphy API), async data fetching, error handling for third-party responses |
+| **JavaScript** | ES6+ modules, classes, prototypes, destructuring, spread/rest, async/await, Promises, Fetch API, closures, callbacks, higher-order functions, DOM manipulation, LocalStorage |
+| **Frontend** | React 19, React Router 8, Context API for global state, custom hooks, protected route wrappers, Socket.IO client, CSS Modules, responsive design, toast notifications |
+| **HTML & CSS** | Semantic HTML5, CSS Flexbox, CSS Grid, responsive layouts, custom fonts and typography, Constraint Validation API, form styling |
+| **Testing** | Unit testing with Jest, component testing with React Testing Library, edge case coverage, ESM + Babel configuration |
+| **Tooling** | Git, npm, Vite, Webpack, ESLint, Babel, dotenv, Nodemon |
 
 ## Repository Structure
 
@@ -123,7 +142,7 @@ Projects developed in the [**Foundations**](https://www.theodinproject.com/paths
 
 ## How to Navigate
 
-Each project has its own README with specific usage instructions and context within the curriculum. Projects are organized in chronological order of development, showing the learning progression.
+Each project has its own README with specific usage instructions and context within the curriculum. Projects are organized in reverse chronological order, showing the most complex and recent work first.
 
 ---
 
