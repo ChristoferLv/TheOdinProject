@@ -14,7 +14,7 @@ A full picture of what was studied and applied across all sections of the curric
 | **Authentication & Security** | JWT (issue, verify, refresh), Passport.js (JWT + Local strategies), session-based authentication, bcrypt password hashing, role-based access control, protected routes |
 | **API Design** | RESTful conventions (GET, POST, PUT, PATCH, DELETE), offset pagination, query filters, search endpoints, consistent JSON response format, CORS configuration |
 | **Architecture & Patterns** | Module Pattern, Factory Functions, dependency injection, monorepo with multiple clients, service/controller layering, separation of concerns, full CRUD |
-| **Database** | PostgreSQL, Prisma ORM, database migrations, seeding, raw SQL (`$queryRaw`), relational data modeling, self-referencing tables, composite unique constraints, partial indexes, Prisma transactions, cascade deletes |
+| **Database** | SQL (`SELECT`, `INSERT`, `UPDATE`, table creation and alteration, filtering, aggregation, `JOIN`s, subqueries, `NULL` handling, window functions), PostgreSQL, Prisma ORM, migrations, seeding, relational modeling, self-referencing tables, transactions |
 | **External APIs** | REST API consumption (PokeAPI, Visual Crossing Weather API, Giphy API), async data fetching, error handling for third-party responses |
 | **Real-Time** | WebSocket communication with Socket.IO (server + client), JWT-authenticated socket connections, per-user rooms, server-pushed event notifications. *self-studied, not covered in the curriculum* |
 | **Data Structures & Algorithms** | Linked Lists, Binary Search Trees (balanced, traversals, rebalancing), HashMap (hash function, collision handling, load factor resizing), BFS, recursion, Merge Sort |
@@ -27,12 +27,11 @@ A full picture of what was studied and applied across all sections of the curric
 
 ## Repository Structure
 
-
-### 🟢 NodeJS
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="24" alt="Node.js icon"> NodeJS
 
 Projects developed in the [**NodeJS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) section, focused on Express servers, authentication, databases, and full-stack applications:
 
-#### 📅 Projects (in reverse chronological order)
+#### Projects (in reverse chronological order)
 
 - **[Odin Book](https://github.com/ChristoferLv/top-odin-book)** - Full-featured social network inspired by Twitter/X, the final capstone project of the curriculum. RESTful API with 30+ endpoints covering posts, replies, shares (repost), quote tweets, likes, bookmarks, follows, real-time notifications via Socket.IO, trending posts, content and user search, image uploads with Sharp, and a React frontend with multiple contexts and pages. The largest and most complete project in the course.
 
@@ -52,12 +51,19 @@ Projects developed in the [**NodeJS**](https://www.theodinproject.com/paths/full
 
 - **[Basic Informational Site](https://github.com/ChristoferLv/top-basic-informational-site)** - Basic informational site with routes for Home, About, Contact, and a custom 404 page.
 
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="24" alt="React icon"> Databases
 
-### ⚛️ React
+Projects and exercises developed in the [**Databases**](https://www.theodinproject.com/paths/full-stack-javascript/courses/databases) section, focused on SQL and relational data:
+
+#### Project
+
+- **[SQL Zoo](https://github.com/ChristoferLv/top-sql-zoo)** - A series of guided SQL exercises solved on SQLZoo.org. This repository keeps the exercise prompts and answers; it is not a web application like the other projects listed here.
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" alt="React icon"> React
 
 Projects developed in the [**React**](https://www.theodinproject.com/paths/full-stack-javascript/courses/react) section, focused on components, state, and forms:
 
-#### 📅 Projects (in reverse chronological order)
+#### Projects (in reverse chronological order)
 
 - **[Shopping Cart](https://github.com/ChristoferLv/top-shopping-cart)** - Store with Home, Products, and Cart pages, API consumption, cart with totals, and tests with React Testing Library.
 
@@ -66,20 +72,20 @@ Projects developed in the [**React**](https://www.theodinproject.com/paths/full-
 - **[CV Application](https://github.com/ChristoferLv/top-cv-application)** - Resume generator with editable forms, multiple entries, and final preview.
 
 
-### ⚙️ Advanced HTML and CSS Course
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="24" alt="HTML5 icon"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="24" alt="CSS3 icon"> Advanced HTML and CSS Course
 
 Project developed in the [**Advanced HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) section, focused on advanced layout, typography, and responsiveness:
 
-#### 📅 Project
+#### Project
 
 - **[Homepage](https://github.com/ChristoferLv/top-homepage)** - Responsive portfolio page with introduction, works, and contact sections, using custom fonts and project cards.
 
 
-### 💛 JavaScript
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24" alt="JavaScript icon"> JavaScript
 
 Projects developed in the [**JavaScript**](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) section, focused on advanced JavaScript concepts and programming:
 
-#### 📅 Projects (in reverse chronological order)
+#### Projects (in reverse chronological order)
 - **[Battleship](https://github.com/ChristoferLv/top-battleship)** - Battleship game with a ship placement phase, computer opponent mode, and turn-based matches with hit and miss feedback.
 
 - **[Knights Travails](https://github.com/ChristoferLv/top-knights-travails/)** - Shortest path algorithm for a knight on a chessboard using breadth-first search (BFS), returning the full path between origin and destination.
@@ -106,22 +112,22 @@ Projects developed in the [**JavaScript**](https://www.theodinproject.com/paths/
 
 - \***[Form Validation Practice](Javascript/form-validation-practice/)** - Supplementary activity from the JavaScript form validation lesson, for practicing form validation with visual error feedback and real-time validation.
 
-### 🎨 Intermediate HTML and CSS
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="24" alt="CSS3 icon"> Intermediate HTML and CSS
 
 Projects developed in the [**Intermediate HTML and CSS**](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) section, focused on intermediate HTML and CSS concepts:
 
-#### 📅 Projects (in reverse chronological order)
+#### Projects (in reverse chronological order)
 
 - **[Admin Dashboard](https://github.com/ChristoferLv/top-admin-dashboard)** - "Holy Grail" layout dashboard built entirely using CSS Grid.
 
 - **[Sign-up Form](https://github.com/ChristoferLv/top-sign-up-form)** - Basic sign-up form exploring HTML Forms concepts and form styling with CSS.
 
 
-### 🎯 Foundations
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="24" alt="HTML5 icon"> Foundations
 
 Projects developed in the [**Foundations**](https://www.theodinproject.com/paths/foundations/courses/foundations) section, focused on HTML, CSS, and basic JavaScript fundamentals:
 
-#### 📅 Projects (in reverse chronological order)
+#### Projects (in reverse chronological order)
 
 - **[Calculator](https://github.com/ChristoferLv/top-calculator)** - Functional calculator with a graphical interface. Practice with JavaScript logic and mathematical operations.
 
@@ -146,4 +152,4 @@ Each project has its own README with specific usage instructions and context wit
 
 ---
 
-🚀 **Status**: Completed ✅ — All sections of the Full Stack JavaScript path finished, from Foundations to NodeJS
+**Status**: Completed — All sections of the Full Stack JavaScript path finished, from Foundations to NodeJS
